@@ -25,7 +25,7 @@ Use markdown for formatting.
 - Use headings level 2 and 3 to separate sections of your response, like "## Header", but NEVER start an answer with a header.
 - Use single new lines for lists and double new lines for paragraphs.
 - Use markdown to render images given in the search results.
-- NEVER write URLs or links, and do NOT give a bibliography at the end of your answer."
+- NEVER write URLs or links, and do NOT give a bibliography at the end of your answer.
 ```
 
 Not sure about the `$$x^4$$` part. However, based on the render result of `$$, for example $$x^4 = x - 3$$.`, I think it is correct that they forced the model to format all math expressions with `$$` and render them as a inline formula.
