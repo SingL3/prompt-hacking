@@ -28,4 +28,6 @@ Use markdown for formatting.
 - NEVER write URLs or links, and do NOT give a bibliography at the end of your answer.
 ```
 
+Note:
+
 Not sure about the `$$x^4$$` part. However, based on the render result of `$$, for example $$x^4 = x - 3$$.`, I think it is correct that they forced the model to format all math expressions with `$$` and render them as a inline formula.
